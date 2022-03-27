@@ -1,0 +1,15 @@
+C:\Users\danil\OneDrive\Área de Trabalho\Workspace c#\VS\Workspace Files\InterfaceComLocadora\InterfaceComLocadora\bin\Debug\net6.0\InterfaceComLocadora.exe
+C:\Users\danil\OneDrive\Área de Trabalho\Workspace c#\VS\Workspace Files\InterfaceComLocadora\InterfaceComLocadora\bin\Debug\net6.0\InterfaceComLocadora.deps.json
+C:\Users\danil\OneDrive\Área de Trabalho\Workspace c#\VS\Workspace Files\InterfaceComLocadora\InterfaceComLocadora\bin\Debug\net6.0\InterfaceComLocadora.runtimeconfig.json
+C:\Users\danil\OneDrive\Área de Trabalho\Workspace c#\VS\Workspace Files\InterfaceComLocadora\InterfaceComLocadora\bin\Debug\net6.0\InterfaceComLocadora.dll
+C:\Users\danil\OneDrive\Área de Trabalho\Workspace c#\VS\Workspace Files\InterfaceComLocadora\InterfaceComLocadora\bin\Debug\net6.0\InterfaceComLocadora.pdb
+C:\Users\danil\OneDrive\Área de Trabalho\Workspace c#\VS\Workspace Files\InterfaceComLocadora\InterfaceComLocadora\obj\Debug\net6.0\InterfaceComLocadora.csproj.AssemblyReference.cache
+C:\Users\danil\OneDrive\Área de Trabalho\Workspace c#\VS\Workspace Files\InterfaceComLocadora\InterfaceComLocadora\obj\Debug\net6.0\InterfaceComLocadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danil\OneDrive\Área de Trabalho\Workspace c#\VS\Workspace Files\InterfaceComLocadora\InterfaceComLocadora\obj\Debug\net6.0\InterfaceComLocadora.AssemblyInfoInputs.cache
+C:\Users\danil\OneDrive\Área de Trabalho\Workspace c#\VS\Workspace Files\InterfaceComLocadora\InterfaceComLocadora\obj\Debug\net6.0\InterfaceComLocadora.AssemblyInfo.cs
+C:\Users\danil\OneDrive\Área de Trabalho\Workspace c#\VS\Workspace Files\InterfaceComLocadora\InterfaceComLocadora\obj\Debug\net6.0\InterfaceComLocadora.csproj.CoreCompileInputs.cache
+C:\Users\danil\OneDrive\Área de Trabalho\Workspace c#\VS\Workspace Files\InterfaceComLocadora\InterfaceComLocadora\obj\Debug\net6.0\InterfaceComLocadora.dll
+C:\Users\danil\OneDrive\Área de Trabalho\Workspace c#\VS\Workspace Files\InterfaceComLocadora\InterfaceComLocadora\obj\Debug\net6.0\refint\InterfaceComLocadora.dll
+C:\Users\danil\OneDrive\Área de Trabalho\Workspace c#\VS\Workspace Files\InterfaceComLocadora\InterfaceComLocadora\obj\Debug\net6.0\InterfaceComLocadora.pdb
+C:\Users\danil\OneDrive\Área de Trabalho\Workspace c#\VS\Workspace Files\InterfaceComLocadora\InterfaceComLocadora\obj\Debug\net6.0\InterfaceComLocadora.genruntimeconfig.cache
+C:\Users\danil\OneDrive\Área de Trabalho\Workspace c#\VS\Workspace Files\InterfaceComLocadora\InterfaceComLocadora\obj\Debug\net6.0\ref\InterfaceComLocadora.dll
